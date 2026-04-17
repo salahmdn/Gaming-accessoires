@@ -148,27 +148,17 @@
   margin-bottom: 60px;
 }
 
-.u-section-2 .u-layout-cell-1 {
-  min-height: 758px;
+.u-section-2 .u-image-1 {
+  min-height: 1035px;
+  background-image: url("images/WhatsAppImage2026-02-17at21.15.09.jpeg");
 }
 
 .u-section-2 .u-container-layout-1 {
   padding: 0 16px 0 0;
 }
 
-.u-section-2 .u-image-1 {
-  width: 325px;
-  height: 407px;
-  --animation-custom_in-translate_x: 0px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  margin: 0 auto 0 0;
-}
-
 .u-section-2 .u-text-1 {
-  margin: 255px 14px 0 0;
+  margin: 882px 14px 0 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -184,16 +174,12 @@
   padding: 0;
 }
 
-.u-section-2 .u-text-3 {
-  margin: 131px 0 0 160px;
-}
-
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 746px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
+  .u-section-2 .u-image-1 {
     min-height: 699px;
   }
 
@@ -202,8 +188,6 @@
   }
 
   .u-section-2 .u-text-1 {
-    width: auto;
-    margin-top: 161px;
     margin-right: 0;
   }
 
@@ -214,10 +198,6 @@
   .u-section-2 .u-image-2 {
     min-height: 625px;
   }
-
-  .u-section-2 .u-text-3 {
-    margin-left: 40px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -225,21 +205,12 @@
     min-height: 221px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
   .u-section-2 .u-image-1 {
-    width: 272px;
-    height: 341px;
+    min-height: 653px;
   }
 
   .u-section-2 .u-image-2 {
     min-height: 479px;
-  }
-
-  .u-section-2 .u-text-3 {
-    margin-left: 0;
   }
 }
 
@@ -248,16 +219,12 @@
     min-height: 321px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 481px;
+  .u-section-2 .u-image-1 {
+    min-height: 1224px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-right: 10px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-top: 40px;
   }
 
   .u-section-2 .u-image-2 {
@@ -266,12 +233,8 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 612px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-top: 91px;
+  .u-section-2 .u-image-1 {
+    min-height: 771px;
   }
 
   .u-section-2 .u-image-2 {
@@ -444,21 +407,16 @@
     padding-right: 10px;
   }
 } .u-section-4 {
-  background-repeat: no-repeat;
-  background-image: url("images/photo-1547751720-6b718b84699d.jpeg");
-  background-size: cover;
+  filter: none;
 }
 
-.u-section-4 .u-sheet-1 {
+.u-section-4 .u-image-1 {
   min-height: 50vh;
+  background-image: url("images/IMG_2002.JPG");
 }
 
 @media (max-width: 1199px) {
-   .u-section-4 {
-    background-position: 50% 50%;
-  }
-
-  .u-section-4 .u-sheet-1 {
+  .u-section-4 .u-image-1 {
     min-height: 400px;
   }
 }.u-section-5 .u-sheet-1 {
@@ -482,16 +440,8 @@
   padding: 30px;
 }
 
-.u-section-5 .u-image-1 {
-  width: 232px;
-  height: 232px;
-  background-image: url("images/female-model-demonstrating-silber-braceletcopy.jpg");
-  background-position: 50% 50%;
-  margin: 18px auto 0;
-}
-
 .u-section-5 .u-text-1 {
-  margin: 20px 0 0;
+  margin: 270px 0 0;
 }
 
 .u-section-5 .u-text-2 {
@@ -502,16 +452,8 @@
   padding: 30px;
 }
 
-.u-section-5 .u-image-2 {
-  width: 232px;
-  height: 232px;
-  background-image: url("images/pexels-beardedbasturds-842980.jpg");
-  background-position: 50% 50%;
-  margin: 18px auto 0;
-}
-
 .u-section-5 .u-text-3 {
-  margin: 20px 0 0;
+  margin: 270px 0 0;
 }
 
 .u-section-5 .u-text-4 {
@@ -522,16 +464,8 @@
   padding: 30px;
 }
 
-.u-section-5 .u-image-3 {
-  width: 232px;
-  height: 232px;
-  background-image: url("images/black-white-portrait-girl-with-sunglasses.jpg");
-  background-position: 50% 50%;
-  margin: 18px auto 0;
-}
-
 .u-section-5 .u-text-5 {
-  margin: 20px 0 0;
+  margin: 270px 0 0;
 }
 
 .u-section-5 .u-text-6 {
